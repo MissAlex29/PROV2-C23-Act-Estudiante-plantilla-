@@ -1,2 +1,2 @@
-# PRO-C22
-estructura alámbrica para c22 
+# PRO-C23
+Plantilla para estudiante con comentarios 
