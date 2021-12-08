@@ -1,1 +1,2 @@
-# PROV2-C23-Act-Estudiante-plantilla-
+# PRO-C22
+estructura alámbrica para c22 
